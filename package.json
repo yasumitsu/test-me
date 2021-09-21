@@ -19,5 +19,8 @@
 	"homepage": "https://github.com/yasumitsu/test-me#readme",
 	"bin": {
 		"tme": "index.js"
+	},
+	"dependencies": {
+		"chalk": "^4.1.2"
 	}
 }
