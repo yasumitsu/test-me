@@ -1,0 +1,23 @@
+{
+	"name": "test-me",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yasumitsu/test-me.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/yasumitsu/test-me/issues"
+	},
+	"homepage": "https://github.com/yasumitsu/test-me#readme",
+	"bin": {
+		"tme": "index.js"
+	}
+}
